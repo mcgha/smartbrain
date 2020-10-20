@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Tahoma,Verdana,Segoe,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(5,56,177);
+  background: linear-gradient(89deg,#c54bad 0%, #03b3c7 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  cursor: pointer;
+}
